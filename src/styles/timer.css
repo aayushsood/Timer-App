@@ -1,0 +1,15 @@
+.align-center {
+  text-align: center;
+}
+
+.timer-font-size {
+  font-size: 2rem;
+}
+
+.some-color {
+  color: rgb(109, 99, 99);
+}
+
+.text-transform {
+  text-transform: capitalize;
+}
